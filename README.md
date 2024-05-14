@@ -14,7 +14,7 @@ and construct a program to solve it.
 # How To Run
 Using Visual Studio:
 1. Download all files on your local machine.
-2. Open the "code" folder.
+2. Open the "code" file.
 3. Press on Run button on the top left of F5 on the keyboard.
 # How To Use
 1. Enter the start value for x.
